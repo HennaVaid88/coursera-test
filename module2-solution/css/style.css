@@ -10,7 +10,10 @@
 }
  
 @media (min-width: 768px) & (max-width: 991px) {
-
+.col-lg-1 {
+  float: left;
+  width: 33.33%;
+}
 }
 
 @media (max-width: 767px) {
